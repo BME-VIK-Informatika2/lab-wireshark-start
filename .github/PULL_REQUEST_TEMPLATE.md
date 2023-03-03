@@ -1,10 +1,14 @@
-**Megjegyzések az elkészült megoldáshoz**
+**NÃ©v, Megjegyzï¿½sek az elkï¿½szï¿½lt megoldï¿½shoz**
 
-(Ide írj be bármi üzenetet a laborvezetnek.)
+NÃ©v: 
 
-**Ellenrzési lista**
-- A pull request címe utal a tartalomra. Pl. LAB05
-- A pull requestben csak azok a változások szerepelnek, amiket a megoldás során te hajtottál végre.
-- A forráskódban nincsennek kikommentezett kódrészletek, egymás után több üres sor, csúnya "formázás".
-- Reviewernek megadtad a Neptun szerinti kurzusod laborvezetjét, és csak 1 reviewert adtál meg.
-- Ha a feladat kéri, akkor ide beszúrtál egy screenshotot a futó megoldásról?
+MegjegyzÃ©sek: 
+
+(Ide ï¿½rj be bï¿½rmi ï¿½zenetet a laborvezetnek.)
+
+**Ellenrzï¿½si lista**
+- A pull request cï¿½me utal a tartalomra. Pl. LAB05
+- A pull requestben csak azok a vï¿½ltozï¿½sok szerepelnek, amiket a megoldï¿½s sorï¿½n te hajtottï¿½l vï¿½gre.
+- A forrï¿½skï¿½dban nincsennek kikommentezett kï¿½drï¿½szletek, egymï¿½s utï¿½n tï¿½bb ï¿½res sor, csï¿½nya "formï¿½zï¿½s".
+- Reviewernek megadtad a Neptun szerinti kurzusod laborvezetjï¿½t, ï¿½s csak 1 reviewert adtï¿½l meg.
+- Ha a feladat kï¿½ri, akkor ide beszï¿½rtï¿½l egy screenshotot a futï¿½ megoldï¿½srï¿½l?
