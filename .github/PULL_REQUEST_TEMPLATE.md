@@ -1,14 +1,14 @@
-**Név, Megjegyz�sek az elk�sz�lt megold�shoz**
+**Név, Megjegyzések az elkészült megoldáshoz**
 
 Név: 
 
 Megjegyzések: 
 
-(Ide �rj be b�rmi �zenetet a laborvezetnek.)
+(Ide írj be bármi üzenetet a laborvezetőnek.)
 
-**Ellenrz�si lista**
-- A pull request c�me utal a tartalomra. Pl. LAB05
-- A pull requestben csak azok a v�ltoz�sok szerepelnek, amiket a megold�s sor�n te hajtott�l v�gre.
-- A forr�sk�dban nincsennek kikommentezett k�dr�szletek, egym�s ut�n t�bb �res sor, cs�nya "form�z�s".
-- Reviewernek megadtad a Neptun szerinti kurzusod laborvezetj�t, �s csak 1 reviewert adt�l meg.
-- Ha a feladat k�ri, akkor ide besz�rt�l egy screenshotot a fut� megold�sr�l?
+**Ellenőrzési lista**
+- A pull request címe utal a tartalomra. Pl. LAB05
+- A pull requestben csak azok a változások szerepelnek, amiket a megoldás során te hajtottál végre.
+- Reviewernek megadtad a Neptun szerinti kurzusod laborvezetőjét, és csak 1 reviewert adtál meg.
+- Ha a feladat kéri, akkor ide beszúrtál egy screenshotot a futó megoldásról? (copy-paste működik a szerkesztő mezőben)
+- A forráskódban nincsennek kikommentezett kódrészletek, egymás után több üres sor, csúnya "formázás".
